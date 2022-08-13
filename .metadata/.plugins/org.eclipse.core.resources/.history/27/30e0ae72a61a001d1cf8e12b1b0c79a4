@@ -1,0 +1,19 @@
+package retangle;
+
+import java.util.Scanner;
+
+public class htg extends hcn {
+	private double cc;
+	private double d;
+	
+	
+	public void getInfo() {
+		 Scanner inputScanner = new Scanner(System.in);
+ 	    System.out.println("Nhap chieu cao...");
+ 		cc = inputScanner.nextInt();
+ 		Scanner inputScanner1 = new Scanner(System.in);
+ 	    System.out.println("Nhap day...");
+ 		d = inputScanner1.nextInt();
+	}
+
+}

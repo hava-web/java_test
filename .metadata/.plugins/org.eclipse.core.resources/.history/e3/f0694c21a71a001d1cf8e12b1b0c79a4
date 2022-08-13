@@ -1,0 +1,15 @@
+package retangle;
+
+public class carculator {
+   public static void main(String args[]) {
+	   hcn hcn = new hcn();
+	   htg htg = new htg();
+	   hcn.getInfor();
+	   hcn.tinhCV();
+	   hcn.tinhDientich();
+	   htg.getInfor();
+	   htg.tinhCV();
+	   htg.tinhDientich();
+	 
+  }
+}

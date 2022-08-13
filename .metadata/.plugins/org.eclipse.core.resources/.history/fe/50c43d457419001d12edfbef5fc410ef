@@ -1,0 +1,19 @@
+package retangle;
+
+public class hcn {
+    private double cd;
+    private double cr;
+    
+      public hcn(double cd, double cr)
+      {
+    	   cd = this.cd;
+    	   cr = this.cd;
+      }
+      public void tinhCV() {
+    	  
+	}
+      public void tinhDientich() {
+		
+	}
+      
+}

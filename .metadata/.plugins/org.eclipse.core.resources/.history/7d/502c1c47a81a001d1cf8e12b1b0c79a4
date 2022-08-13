@@ -1,0 +1,7 @@
+package retangle;
+
+abstract class hinhhoc {
+    public abstract void tinhCV();
+    public abstract void tinhDientich();
+    
+}

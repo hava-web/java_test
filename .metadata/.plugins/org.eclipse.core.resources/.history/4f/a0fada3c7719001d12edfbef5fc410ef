@@ -1,0 +1,10 @@
+package retangle;
+
+public class carculator {
+   public static void main(String args[]) {
+	   hcn h1 = new hcn(12,4);
+	   h1.getInfor();
+	   h1.display();
+	
+}
+}
